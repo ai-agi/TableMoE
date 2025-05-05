@@ -2,7 +2,7 @@
 <h1>TableMoE</h1>
 <h3>Mixture-of-Connector-Experts for Multimodal Table Understanding</h3>
 
-<sup>2</sup> Zhejiang University,
+<sup></sup> Zhejiang University,
 
 *If you have any question, feel free to contact [📧](mailto:junwen.agi@gmail.com).*
 
