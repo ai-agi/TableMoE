@@ -1,11 +1,10 @@
 <div align="center">
 <h1>TableMoE</h1>
 <h3>Mixture-of-Connector-Experts for Multimodal Table Understanding</h3>
-
-<sup></sup> Zhejiang University,
+  
+<sup></sup> Zhejiang University
 
 *If you have any question, feel free to contact [📧](mailto:junwen.agi@gmail.com).*
-
 </div>
 
 **TableMoE** is a multimodal large language model empowered by a Mixture-of-Connector-Experts architecture, exhibiting strong conversational capabilities and trained on extensive tabular corpora to support advanced tasks such as table understanding, editing, replotting and beyond.
