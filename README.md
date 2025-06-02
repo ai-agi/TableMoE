@@ -1,8 +1,8 @@
 <div align="center">
   
 <h1 style="display: flex; align-items: center; gap: 10px; margin: 0;">
-  <img src="assets/wukong.png" alt="logo" height="50" />
-  <span style="font-size: 15.6em; font-weight: 800;">TableMoE</span>
+  <img src="assets/wukong.png" alt="logo" height="44" />
+  <span style="font-size: 2.6em; font-weight: 800;">TableMoE</span>
 </h1>
 
 
