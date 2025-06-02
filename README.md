@@ -14,7 +14,14 @@
 *If you have any question, feel free to contact [📧](mailto:junwen.agi@gmail.com).*
 </div>
 
-**TableMoE** is a multimodal large language model empowered by a <strong>Mixture-of-Connector-Experts</strong> architecture, exhibiting strong conversational capabilities and trained on extensive tabular corpora to support advanced tasks such as table editing, table highlighting, table replotting, table transformation and beyond.
+# TableMoE
+
+**TableMoE** is a powerful multimodal large language model built upon a novel <strong>Mixture-of-Connector-Experts</strong> (MoCE) architecture. It is designed for robust table-centric understanding and visual reasoning across diverse formats, including text, tables, charts, and images. Trained on extensive tabular corpora, TableMoE supports advanced tasks such as table editing, highlighting, replotting, transformation, and symbolic CoT-driven or PoT-driven reasoning. Its symbolic routing and expert composition enable strong conversational capabilities grounded in structured data.
+
+Visit the project: https://ai-agi.github.io/TableMoE/
+
+Keywords: TableMoE, Neuro-Symbolic Routing, Table Reasoning, MoE, Multimodal, Table-Centric QA, Symbolic Graph, LLM, LMM, LVLM, Vision-Language Model
+
 
 ## News
 - **`2025/06/02`**: 🌍 We release **WMMFinanceMath**, see [**here**](https://github.com/ai-agi/WMMFinanceMath ), a visually grounded version of FinanceMath with markdown tables rendered into WildStruct-style images featuring real-world noise like blur, skew, and watermarks. 🎉
