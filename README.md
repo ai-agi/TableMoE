@@ -1,5 +1,10 @@
 <div align="center">
-<h1>TableMoE</h1>
+  
+<h1 style="display: flex; align-items: center; gap: 10px; margin: 0;">
+  <img src="assets/wukong.png" alt="logo" height="50" />
+  <span style="font-size: 15.6em; font-weight: 800;">TableMoE</span>
+</h1>
+
 
 <h3>Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding</h3>
 <sup></sup>  College of Computer Science and Technology 
