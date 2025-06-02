@@ -7,9 +7,13 @@
 
 
 <h3>Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding</h3>
-<sup></sup>  College of Computer Science and Technology <br><br>
-<sup></sup> Zhejiang University <br><br>
-*If you have any question, feel free to contact [📧](mailto:junwen.agi@gmail.com).*
+
+ <div style="text-align: center; font-family: sans-serif; font-size: 1.1em;">
+    <p>College of Computer Science and Technology</p>
+    <p><sup></sup>Zhejiang University</p>
+    <p><em>If you have any question, feel free to contact [📧](mailto:junwen.agi@gmail.com).</em></p>
+  </div>
+
 </div>
 
 # TableMoE
