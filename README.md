@@ -17,7 +17,7 @@
 
 # TableMoE
 
-**TableMoE** is a powerful multimodal large language model built upon a novel <strong>Mixture-of-Connector-Experts</strong> (MoCE) architecture. It is designed for robust table-centric understanding and visual reasoning across diverse formats, including text, tables, charts, and images. Trained on extensive tabular corpora, TableMoE supports advanced tasks such as table editing, highlighting, replotting, transformation, and symbolic CoT-driven or PoT-driven reasoning. Its symbolic routing and expert composition enable strong conversational capabilities grounded in structured data.
+**TableMoE** is a powerful multimodal large language model built upon a novel <strong>Mixture-of-Connector-Experts</strong> (MoCE) architecture. It is designed for robust table-centric understanding and visual reasoning across diverse formats, including text, tables, charts, and images. Trained on extensive tabular corpora, TableMoE supports advanced tasks such as table editing, highlighting, replotting, transformation, and symbolic CoT-driven or PoT-driven reasoning. Its <strong>neuro-symbolic routing</strong> and expert composition enable strong conversational capabilities grounded in structured data.
 
 Visit the project: https://ai-agi.github.io/TableMoE/
 
