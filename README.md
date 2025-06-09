@@ -29,10 +29,6 @@ Keywords: TableMoE, Neuro-Symbolic Routing, Table Reasoning, MoE, Multimodal, Ta
 - **`2025/05/05`**: 🎉🎉🎉 TableMoE extends the LLaVA-NeXT framework (https://github.com/LLaVA-VL/LLaVA-NeXT) by implementing new functionalities that enable encoding multiple images within multi-round conversations in a single sample per batch—capabilities not supported in the original implementation!
 - **`2025/05/01`**: 🚀 We release TableMoE!
 
-# TableMoE – Neuro-Symbolic Routing for Structured Multimodal Table Understanding
-
-TableMoE is an open-source framework for **structured expert routing** in multimodal table understanding, combining symbolic reasoning with large vision-language models. Developed for research in **Neuro-Symbolic AI**, the project supports tasks like chart-table QA, referential grounding, and visual CoT alignment.
-
 ## 🔥 Key Features
 - 💡 Neuro-Symbolic Routing with Role and Structural Graph Alignment
 - 📊 Support for WMMFinanceMath, ChartQA, WMMTATQA, WMMTabDialog, WMMFinQA datasets
@@ -44,5 +40,5 @@ TableMoE is an open-source framework for **structured expert routing** in multim
 ```bash
 git clone https://github.com/ai-agi/TableMoE.git
 cd TableMoE
-bash scripts/install.sh
+bash scripts/alignment_table2code.sh
 
