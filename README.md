@@ -21,7 +21,7 @@
 
 Visit the project: https://ai-agi.github.io/TableMoE/
 
-Keywords: TableMoE, Neuro-Symbolic Routing, Table Reasoning, MoE, Multimodal, Table-Centric QA, Symbolic Graph, LLM, LMM, LVLM, Vision-Language Model
+Keywords: TableMoE, Neuro-Symbolic Routing, Table Reasoning, MoE, Multimodal, Table-Centric QA, Symbolic Graph Planning, Role Classification, Structural Alignment, LLMs, LMMs, LVLMs, Vision-Language Models, Structured Reasoning
 
 
 ## News
