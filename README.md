@@ -25,6 +25,7 @@ Keywords: TableMoE, Neuro-Symbolic Routing, Table Reasoning, MoE, Multimodal, Ta
 
 
 ## News
+- **`2025/06/28`**: 🚀🎉 Our paper TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding is now officially released on arXiv! 📄 Dive into it here: https://arxiv.org/abs/2506.21393. 
 - **`2025/06/13`**: 📌 We release _WildStrcut_ Series **WMMTabDialog** benchmark, see https://github.com/ai-agi/WMMTabDialog or https://huggingface.co/datasets/darkme-ai/WMMTabDialog. **WMMTabDialog** is a high-quality multimodal benchmark for Chinese tax and finance, featuring multi-turn dialogues and multi-table images with _WildStruct_ traits, e.g., incomplete structures, complex nested cells, symbolic expressions, and visual noise. It targets **visually** structured reasoning in Multimodal Large Language Models (MLLMs). **WMMTabDialog** is a held-out zero-shot benchmark, excluded from all training to ensure contamination-free, unbiased evaluation.
 - **`2025/06/02`**: 🌍 We release **WMMFinanceMath**, see [**here**](https://github.com/ai-agi/WMMFinanceMath), a visually grounded version of FinanceMath with markdown tables rendered into WildStruct-style images featuring real-world noise like blur, skew, and watermarks. 🎉
 - **`2025/05/05`**: 🎉🎉🎉 TableMoE extends the LLaVA-NeXT framework (https://github.com/LLaVA-VL/LLaVA-NeXT) by implementing new functionalities that enable encoding multiple images within multi-round conversations in a single sample per batch—capabilities not supported in the original implementation!
